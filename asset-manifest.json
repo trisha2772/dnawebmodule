@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dnawebmodule/static/css/main.41ceb250.chunk.css",
+    "main.js": "/dnawebmodule/static/js/main.280ca540.chunk.js",
+    "main.js.map": "/dnawebmodule/static/js/main.280ca540.chunk.js.map",
+    "runtime~main.js": "/dnawebmodule/static/js/runtime~main.a40b5e1b.js",
+    "runtime~main.js.map": "/dnawebmodule/static/js/runtime~main.a40b5e1b.js.map",
+    "static/js/2.f2ba50c5.chunk.js": "/dnawebmodule/static/js/2.f2ba50c5.chunk.js",
+    "static/js/2.f2ba50c5.chunk.js.map": "/dnawebmodule/static/js/2.f2ba50c5.chunk.js.map",
+    "index.html": "/dnawebmodule/index.html",
+    "precache-manifest.0e621566f31b56b7d9dc474e5c2acb1c.js": "/dnawebmodule/precache-manifest.0e621566f31b56b7d9dc474e5c2acb1c.js",
+    "service-worker.js": "/dnawebmodule/service-worker.js",
+    "static/css/main.41ceb250.chunk.css.map": "/dnawebmodule/static/css/main.41ceb250.chunk.css.map",
+    "static/media/logo.svg": "/dnawebmodule/static/media/logo.5d5d9eef.svg"
+  }
+}
